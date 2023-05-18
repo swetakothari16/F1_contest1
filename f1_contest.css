@@ -1,0 +1,29 @@
+
+h1 {
+    text-decoration-line: underline;
+   }
+
+  .header {
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    padding:  10px;;
+  }
+
+  h2 {
+    text-decoration: underline;
+  }
+
+  a {
+    color: #000000;
+    }
+
+    p{
+        font-style: italic;
+    }
+
+    img{
+        
+       width: 350px;
+       height: 250px;
+       
+    }
